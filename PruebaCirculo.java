@@ -17,6 +17,6 @@ public class PruebaCirculo{
     
     System.out.println("Diametro: "+dosDigitos.format(circulo.getDiametro()));
     System.out.println("Circunferencia: "+dosDigitos.format(circulo.getCircunferencia()));
-    System.out.println("Area: "+dosDigitos.format(circulo.Area()));
+    System.out.println("Area: "+dosDigitos.format(circulo.getArea()));
   }
 }
